@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.22)  26 SEP 2017 15:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.22)  26 SEP 2017 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -524,35 +524,34 @@ Package pdftex.def Info: images/galaxy.jpg  used on input line 34. on input lin
 e 34.
 Package pdftex.def Info: Requested size: 225.84319pt x 126.47218pt on input lin
 e 34.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
  [1
 
 {c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/galaxy
-.jpg>]
-(./firstdocument.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+.jpg>] [2]
+(./firstdocument.aux) ) 
 Here is how much of TeX's memory you used:
- 2380 strings out of 492990
- 30244 string characters out of 6136334
- 90120 words of memory out of 5000000
- 5908 multiletter control sequences out of 15000+600000
+ 2382 strings out of 492990
+ 30272 string characters out of 6136334
+ 90128 words of memory out of 5000000
+ 5910 multiletter control sequences out of 15000+600000
  9594 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,11n,25p,282b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
-live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2017
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2017/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.p
-fb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on firstdocument.pdf (1 page, 115640 bytes).
+<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12
+.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/201
+7/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2017/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti12.pfb>
+Output written on firstdocument.pdf (2 pages, 116307 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
